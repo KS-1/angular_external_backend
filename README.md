@@ -1,3 +1,5 @@
+Just testing using an external backend for an Angular web app. Working towards using an enxternal API source as backend for a new upcomming web app.
+
 # SportsTables
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
